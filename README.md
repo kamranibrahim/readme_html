@@ -1,4 +1,3 @@
-Here’s an updated version of the README file based on the template you provided:
 
 ```markdown
 # `read_more_html` Package

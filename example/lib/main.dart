@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:read_more_html/read_more_html.dart';
 
@@ -26,7 +27,9 @@ class MyApp extends StatelessWidget {
             """,
             maxLines: 4,
             onToggle: (isExpanded) {
-              print(isExpanded ? "Content expanded" : "Content collapsed");
+              if (kDebugMode) {
+                print(isExpanded ? "Content expanded" : "Content collapsed");
+              }
             },
           ),
         ),

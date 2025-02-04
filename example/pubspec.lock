@@ -172,12 +172,12 @@ packages:
     source: hosted
     version: "1.9.0"
   read_more_html:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "0.0.1"
+    version: "1.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
