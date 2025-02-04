@@ -89,7 +89,7 @@ void main() {
 For more details, check out the following:
 
 - **Contributing**: Feel free to open an issue or submit a pull request.
-- **Issues**: If you encounter any bugs or need support, please [open an issue](https://github.com/your-username/read_more_html/issues).
+- **Issues**: If you encounter any bugs or need support, please [open an issue](https://github.com/kamranibrahim/readme_html/issues).
 - **License**: This package is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 ```
 
