@@ -73,7 +73,7 @@ class _ReadMoreHtmlState extends State<ReadMoreHtml> {
             ),
           },
           // Handle the toggle functionality when the "More" or "Less" link is clicked.
-          onLinkTap: (url, context, _, ele) {
+          onLinkTap: (url, context, _, ) {
             if (url == "toggle") {
               setState(() {
                 isExpanded = !isExpanded; // Toggle the expanded state.
